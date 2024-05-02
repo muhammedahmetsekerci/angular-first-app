@@ -11,7 +11,6 @@ To begin with the Angular tutorial in Visual Studio Code, follow these steps:
 - Follow the installation instructions.
 
   2.**Install Node.js:**
-
 - Go to the [Node.js website](https://nodejs.org/).
 - Download and run the installer for your operating system.
 - Follow the installation instructions.
@@ -65,16 +64,24 @@ To run the project from a Git repository, follow these steps:
 1. **Clone the Git repository:**
 
    - Clone the repository to your local machine using Git.
-
 2. **Start JSON Server:**
 
    - Open Visual Studio Code.
    - Open a terminal within Visual Studio Code.
    - Navigate to the project directory.
    - Run `json-server --watch db.json` to start JSON Server and watch the `db.json` file.
-
 3. **Start the Angular Project:**
 
    - In the same terminal, run `ng serve` to start the Angular project.
+
+   ---
+
+**Home Page**
+
+<img src="https://live.staticflickr.com/65535/53692855482_524d279a8f_o.png" width="975" height="431" alt="photo1"/>
+
+ **Learn More Page**
+
+<img src="https://live.staticflickr.com/65535/53693739881_de68344354_o.png" width="980" height="432" alt="page2"/>
 
 </ol>
